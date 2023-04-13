@@ -5,7 +5,7 @@ import numpy as np
 chat_id = 628156322 # Ваш chat ID, не меняйте название переменной
 
 def solution(data) -> bool: # Одна или две выборке на входе, заполняется исходя из условия
-    alpha = 0.06
+    alpha = 0.04
 
 # Пороговое значение
     threshold = 300
